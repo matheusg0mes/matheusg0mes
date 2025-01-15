@@ -1,8 +1,8 @@
 ## Ola! Eu sou o Matheus Gomes
 
 
-- Estou cursando o curso de Sistemas da Informação 2/8
-- Estudando Python
+- Estou cursando o curso de Sistemas da Informação 3/8
+- Apaixonado por programação e aprender novas coisas
 ##
 <div> 
  
