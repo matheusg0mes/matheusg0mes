@@ -2,7 +2,7 @@
 
 
 - Estou cursando o curso de Sistemas da Informação 3/8
-- Apaixonado por programação e aprender novas coisas
+- Apaixonado por programação e me desafiar em novos desafio
 ##
 <div> 
  
