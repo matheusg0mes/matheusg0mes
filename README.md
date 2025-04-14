@@ -85,7 +85,7 @@ Me chamo Matheus Gomes da Costa, tenho 19 anos, no momento estou no 3° período
     align="left" 
     alt="Top Langs" 
     height="110" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusg0mes&layout=compact&card_width=320&langs_count=5&theme=dracula" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusg0mes&layout=compact&cache_seconds=1" 
   />
 </div>
 
