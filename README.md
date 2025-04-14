@@ -69,6 +69,8 @@ Me chamo Matheus Gomes da Costa, tenho 19 anos, no momento estou no 3° período
 
 
 
+
+
 ### 📊 Estatísticas
 
 <div>
@@ -87,4 +89,4 @@ Me chamo Matheus Gomes da Costa, tenho 19 anos, no momento estou no 3° período
   />
 </div>
 
-
+<br clear="left"/>
