@@ -67,6 +67,8 @@ Me chamo Matheus Gomes da Costa, tenho 19 anos, no momento estou no 3° período
 <br/>
 <br/>
 
+
+
 ### 📊 Estatísticas
 
 <div>
@@ -74,14 +76,15 @@ Me chamo Matheus Gomes da Costa, tenho 19 anos, no momento estou no 3° período
     align="left" 
     alt="GitHub Stats" 
     height="170" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusg0mes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=matheusg0mes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
- <img
-   align="left" 
-    alt="GitHub Stats" 
+  
+  <img 
+    align="left" 
+    alt="Top Langs" 
     height="130" 
-   src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusg0mes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusg0mes&layout=compact&card_width=320&langs_count=5&theme=dracula" 
   />
- </div>
+</div>
+
 
