@@ -5,7 +5,7 @@
 Me chamo Matheus Gomes da Costa, tenho 19 anos, no momento estou no 3° período , sou apaixonado por programação e inovação, com um foco especial no desenvolvimento de software. Busco constantemente aprender e aprimorando minhas habilidades, me desafiando em projetos que elaborem minha criatividade e a resolução de problemas.
 
 <p align="left">
-  <a href="https://www.instagram.com/mth_g0mes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/mthdev_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     </a> 
     <a href="https://www.linkedin.com/in/matheus-gomes-92a021276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
@@ -62,14 +62,7 @@ Me chamo Matheus Gomes da Costa, tenho 19 anos, no momento estou no 3° período
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 
 <br/>
 <br/>
@@ -80,7 +73,7 @@ Me chamo Matheus Gomes da Costa, tenho 19 anos, no momento estou no 3° período
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="100" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matheusg0mes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&include_all_commits=true" 
   />
