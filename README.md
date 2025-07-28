@@ -2,7 +2,7 @@
 
 
 
-Me chamo Matheus Gomes da Costa, tenho 19 anos, no momento estou no 3° período , sou apaixonado por programação e inovação, com um foco especial no desenvolvimento de software. Busco constantemente aprender e aprimorando minhas habilidades, me desafiando em projetos que elaborem minha criatividade e a resolução de problemas.
+Me chamo Matheus Gomes da Costa, tenho 19 anos, no momento estou no 4° período , sou apaixonado por programação e inovação, com um foco especial no desenvolvimento de software. Busco constantemente aprender e aprimorando minhas habilidades, me desafiando em projetos que elaborem minha criatividade e a resolução de problemas.
 
 <p align="left">
   <a href="https://www.instagram.com/mthdev_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
