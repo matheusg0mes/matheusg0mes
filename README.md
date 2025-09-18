@@ -71,21 +71,22 @@ Estou aberto a novas oportunidades para colaborar com profissionais da área e c
 
 
 ### 📊 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-<div>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusg0mes&hide=contribs,prs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=matheusg0mes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="180" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusg0mes&layout=compact&card_width=320&langs_count=5&theme=tokyonight&cache_seconds=1&token=SEU_TOKEN_AQUI" 
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusg0mes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</div>
+
+</p>
 
 <br clear="left"/>
