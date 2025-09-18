@@ -1,8 +1,7 @@
 # Matheus Gomes
+Graduando em Sistemas de Informação (4º período), atuando com foco em desenvolvimento Backend. Estou em constante evolução, sempre motivado a aprender novas tecnologias e a enfrentar desafios que aprimorem meu raciocínio lógico e minha capacidade de resolver problemas de forma criativa e eficiente.
 
-
-
-Me chamo Matheus Gomes da Costa, tenho 19 anos, no momento estou no 4° período , sou apaixonado por programação e inovação, com um foco especial no desenvolvimento de software. Busco constantemente aprender e aprimorando minhas habilidades, me desafiando em projetos que elaborem minha criatividade e a resolução de problemas.
+Estou aberto a novas oportunidades para colaborar com profissionais da área e contribuir com soluções inovadoras e eficientes, alinhadas às demandas do mercado de tecnologia.
 
 <p align="left">
   <a href="https://www.instagram.com/mthdev_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
