@@ -90,3 +90,9 @@ Estou aberto a novas oportunidades para colaborar com profissionais da área e c
 </p>
 
 <br clear="left"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusg0mes/matheusg0mes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusg0mes/matheusg0mes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheusg0mes/matheusg0mes/output/pacman-contribution-graph.svg">
+</picture>
