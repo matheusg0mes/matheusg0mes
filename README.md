@@ -1,5 +1,5 @@
 # Matheus Gomes
-Graduando em Sistemas de Informação (4º período), atuando com foco em desenvolvimento Backend. Estou em constante evolução, sempre motivado a aprender novas tecnologias e a enfrentar desafios que aprimorem meu raciocínio lógico e minha capacidade de resolver problemas de forma criativa e eficiente.
+Graduando em Sistemas de Informação (5º período), atuando com foco em desenvolvimento Backend. Estou em constante evolução, sempre motivado a aprender novas tecnologias e a enfrentar desafios que aprimorem meu raciocínio lógico e minha capacidade de resolver problemas de forma criativa e eficiente.
 
 Estou aberto a novas oportunidades para colaborar com profissionais da área e contribuir com soluções inovadoras e eficientes, alinhadas às demandas do mercado de tecnologia.
 
