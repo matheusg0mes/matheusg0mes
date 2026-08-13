@@ -1,7 +1,9 @@
 # Matheus Gomes
-Graduando em Sistemas de Informação (5º período), atuando com foco em desenvolvimento Backend. Estou em constante evolução, sempre motivado a aprender novas tecnologias e a enfrentar desafios que aprimorem meu raciocínio lógico e minha capacidade de resolver problemas de forma criativa e eficiente.
+Desenvolvedor Backend com experiência no desenvolvimento de APIs REST robustas, cobrindo desde a modelagem do banco de dados até o deploy em produção. Utilizo Java com Spring Boot, Spring Security e JWT para construir aplicações seguras, e JPA/Hibernate com MySQL e PostgreSQL para persistência de dados.
 
-Estou aberto a novas oportunidades para colaborar com profissionais da área e contribuir com soluções inovadoras e eficientes, alinhadas às demandas do mercado de tecnologia.
+Atualmente cursando Graduação em Sistemas de Informação (6º período), onde aprofundo os fundamentos teóricos que sustentam minha prática no desenvolvimento de software.
+ 
+Em paralelo, expando meu repertório com Python voltado para análise de dados, utilizando NumPy e Pandas, e estudo os fundamentos de Machine Learning para ampliar minha atuação em projetos orientados a dados.
 
 <p align="left">
   <a href="https://www.instagram.com/mthdev_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
