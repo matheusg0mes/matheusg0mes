@@ -6,8 +6,6 @@ Atualmente cursando Graduação em Sistemas de Informação (6º período), onde
 Em paralelo, expando meu repertório com Python voltado para análise de dados, utilizando NumPy e Pandas, e estudo os fundamentos de Machine Learning para ampliar minha atuação em projetos orientados a dados.
 
 <p align="left">
-  <a href="https://www.instagram.com/mthdev_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    </a> 
     <a href="https://www.linkedin.com/in/matheus-gomes-92a021276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
